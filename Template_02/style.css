@@ -36,8 +36,11 @@ a {
     width: 150px;
     height: 150px;
 }
-#photoKendrick{
-    margin-right: -73px;
+.photo:hover{
+    cursor: pointer;
+}
+#photoKendrickSit{
+    margin-right: -90px;
     margin-top: 26px;
 }
 .textFooter{
